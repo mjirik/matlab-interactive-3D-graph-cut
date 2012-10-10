@@ -5,16 +5,17 @@ Interactive 3D Graph Cut for Matlab
 
 
 Install
-=======
+-------
 
 Get submodules
 
->git submodule init
->git submodule update
+    git submodule init
+
+    git submodule update
 
 Run install.m
 
->matlab -nodesktop -nosplash -r "install; quit"
+    matlab -nodesktop -nosplash -r "install; quit"
 
 Try examples
 
