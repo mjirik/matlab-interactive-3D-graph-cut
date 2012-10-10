@@ -16,5 +16,9 @@ Run install.m
 
 >matlab -nodesktop -nosplash -r "install; quit"
 
+Try examples
 
+example00.m - grayscale 2D
+example10.m - grayscale 3D
+example12.m - color 2D
 

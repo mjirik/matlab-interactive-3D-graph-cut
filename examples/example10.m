@@ -2,7 +2,7 @@
 clear, close, clc
 %load('imAndSeeds')
 addpath(genpath('..'));
-addpath('/home/tomas/queetech/graphcut/src/matlab/outsource/gc_veksler/');
+%addpath('/home/tomas/queetech/graphcut/src/matlab/outsource/gc_veksler/');
 
 
 %% Nacitani dat
@@ -18,4 +18,4 @@ img3d = reshape(D,siz);
 
 
 %% Vizualizace
- viewerGUI2(img3d,'labels', segmentation, 'seeds',seeds)
+ m3DSeedEditor(img3d,'labels', segmentation, 'seeds',seeds)
