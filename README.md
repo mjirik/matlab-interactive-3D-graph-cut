@@ -4,6 +4,11 @@ matlab-interactive-3D-graph-cut
 Interactive 3D Graph Cut for Matlab
 
 
+Use actual [`pysegbase`](https://github.com/mjirik/pysegbase) for 3D interactive Graph-Cut in python:
+
+https://github.com/mjirik/pysegbase
+
+
 Install
 -------
 
